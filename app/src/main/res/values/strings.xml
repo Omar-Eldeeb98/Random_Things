@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Random Things</string>
+    <string name="name">SuperHero</string>
+    <string name="name2">Country</string>
+    <string name="name3">Logo</string>
+    <string name="name4">Apps</string>
+    <string name="exit">Exit</string>
+    <string name="title">EXIT APP ! </string>
+    <string name="message">Are You Sure ? </string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+</resources>
